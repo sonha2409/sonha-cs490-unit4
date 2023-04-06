@@ -27,6 +27,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<a href="https://www.loom.com/share/5393fe186d874cc394f59413e6bca152">
+    <p>Loom Message - 6 April 2023 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5393fe186d874cc394f59413e6bca152-with-play.gif">
+  </a>
 
 <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
